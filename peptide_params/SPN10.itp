@@ -6,7 +6,7 @@
 ;;
 ;; GROMACS topology file for PROA
 ;;
-;; Flat-bottom and NMR distance restraints adapted from  experimental NMR data by JD Tamucci
+;; NMR distance restraints adapted from experimental NMR data by JD Tamucci
 ;; Correspondence: jeffrey.tamucci@uconn.edu
 ;;
 
