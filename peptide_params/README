@@ -1,4 +1,3 @@
 Structures and GROMACS-compatible ITP files for the four SS peptide analogs.
 
-Structures generated using UCSF Chimera's Build Structure Plugin.
 Force field parameters generated using a mix of CHARMM-GUI and CGenFF.
