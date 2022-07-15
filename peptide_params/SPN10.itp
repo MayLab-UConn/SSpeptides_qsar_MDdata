@@ -1016,13 +1016,6 @@ PROA	     3
  77      2    5   -3    200
 #endif
 
-; restraining the reverse turn H-bond Andrei sees in NMR, ensemble averaged to work with 20 peptides, disre_spn10/README for more info
-#ifdef TURNREST_ON
-[ distance_restraints ]
-; ai aj type index type low up1    up2    fac
-  26 76 1    0     1    0.0 0.1821 0.2428 2.5
-#endif
-
 ; only includes i to i+2 and i to i+3 NOEs
 #ifdef NMRREST_ON
 [ distance_restraints ]
